@@ -1,6 +1,6 @@
-# shop_app
+# Shop App
 
-A new Flutter project.
+A shop application for studies purpose.
 
 ## Getting Started
 
